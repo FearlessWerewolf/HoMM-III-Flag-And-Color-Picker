@@ -1,0 +1,25 @@
+[
+	{
+		"source": "H3bitmap",
+		"extension": "lod",
+		"contents": [
+			{
+				"assetName": "ADOP?PNL",
+				"extension": "pcx",
+				"referenceName": "PlayerPanel",
+				"indentifierType": "CapitalLetter"
+			},
+			{
+				"assetName": "ADOPFLG?",
+				"extension": "pcx",
+				"referenceName": "ScenarioInfoFlag",
+				"indentifierType": "CapitalLetter"
+			},
+			{
+				"assetName": "ADOPFLG?",
+				"extension": "pcx",
+				"referenceName": "ScenarioInfoFlag",
+				"indentifierType": "CapitalLetter"
+			}
+		]
+]
