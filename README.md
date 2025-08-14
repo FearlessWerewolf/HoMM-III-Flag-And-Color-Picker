@@ -1,4 +1,4 @@
-# HoMM-III-Flag-And-Color-Picker
+# HoMM III Flag And Color Picker
 A tool for Heroes of Might and Magic III for customizing player flag and color.
 
 ## Features
