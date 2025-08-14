@@ -12,8 +12,8 @@ A tool for Heroes of Might and Magic III for customizing player flag and color.
 - Inject the tool into the game's code (port as a mod)
 
 ## Steps to implement current feature
-[ ] Find all flag and color related assets
-[ ] Categorize them in an easy to work with way
-[ ] Create recolorable templates for each asset
-[ ] Implement recoloring and saving the recolored assets
-[ ] Add a simplistic GUI with player selection and a color picker
+- [ ] Find all flag and color related assets
+- [ ] Categorize them in an easy to work with way
+- [ ] Create recolorable templates for each asset
+- [ ] Implement recoloring and saving the recolored assets
+- [ ] Add a simplistic GUI with player selection and a color picker
