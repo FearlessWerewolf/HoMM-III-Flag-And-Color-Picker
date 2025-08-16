@@ -16,10 +16,41 @@
 				"indentifierType": "CapitalLetter"
 			},
 			{
-				"assetName": "ADOPFLG?",
+				"assetName": "PR?",
 				"extension": "pcx",
-				"referenceName": "ScenarioInfoFlag",
-				"indentifierType": "CapitalLetter"
+				"referenceName": "ThievesGuildHeroPanel",
+				"indentifierType": "UpperCaseColorName"
+			},
+			{
+				"assetName": "ARRAYTXT",
+				"extension": "txt",
+				"referenceName": "OwnedByPlayerText",
+				"indentifierType": "LowerCaseColorName"
+			},
+			{
+				"assetName": "PlColors",
+				"extension": "txt",
+				"referenceName": "PlayerColorsText",
+				"indentifierType": "LowerCaseColorName"
 			}
 		]
+	},
+	{
+		"source": "H3ab_bmp",
+		"extension": "lod",
+		"contents": [
+			{
+				"assetName": "ArrayTxt",
+				"extension": "txt",
+				"referenceName": "OwnedByPlayerText",
+				"indentifierType": "LowerCaseColorName"
+			},
+			{
+				"assetName": "PlColors",
+				"extension": "txt",
+				"referenceName": "PlayerColorsText",
+				"indentifierType": "LowerCaseColorName"
+			}
+		]
+	}
 ]

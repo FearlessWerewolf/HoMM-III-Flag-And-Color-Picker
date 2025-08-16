@@ -4,5 +4,17 @@
 		"values": [
 			"R", "B", "Y", "G", "O", "P", "T", "S"
 		]
+	},
+	{
+		"identifierName": "LowerCaseColorName",
+		"values": [
+			"red", "blue", "tan", "green", "orange", "purple", "teal", "pink"
+		]
+	},
+	{
+		"identifierName": "UpperCaseColorName",
+		"values": [
+			"RED", "BLUE", "TAN", "GREEN", "ORANGE", "PURPLE", "TEAL", "ROSE"
+		]
 	}
 ]
